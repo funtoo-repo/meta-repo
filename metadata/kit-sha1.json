@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "8e131f069babadcc0a7e14391d82ae99f7a1e4e5"
+        "next": "aec818a028447c5c14b8db7c0ee967ba3c3307a7"
     },
     "core-gl-kit": {
         "next": "14ce39e0c0f92354abe0d7d97fffecef3c475eca"
@@ -18,7 +18,7 @@
         "next": "ea48f57e5e3dcb25a47c46b8ea7af15728e53ba7"
     },
     "dev-kit": {
-        "next": "c2e227186975d8f34a2c63e60d0a8e51aaa78db0"
+        "next": "d1e1a1f2a888a338838e32b1fdbc3d999d96f986"
     },
     "editors-kit": {
         "next": "91251190fcd50aca0f193aaedf8b21c0347cf2b3"
@@ -27,7 +27,7 @@
         "next": "9137624b6855f49fc68aa9b2ccf54f02351e4138"
     },
     "gnome-kit": {
-        "next-3.36-prime": "ff49b3a6fb5ff7e0995046c166801d7332d5a4d9"
+        "next-3.36-prime": "bf6c1a6e1434be660423d961adf5c48e43902bfe"
     },
     "haskell-kit": {
         "next": "596e8e80470a2fd1e4f4129367bf64d97df71c60"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "8d282c10c855c424145f2a2354440ff64ff61292"
     },
     "media-kit": {
-        "next": "369ac690a5a1529732a0f1b60bd1688014eadf89"
+        "next": "f9d59f0d3d95c065cfa6a31bef1a1654c2e890b4"
     },
     "ml-lang-kit": {
         "next": "c0bc4ae987bddbfb56e335069683ea2f128e7943"
     },
     "net-kit": {
-        "next": "99bf1d9c62d70920b75700aea154f30d9d978bdb"
+        "next": "ae489469d5791279ddb3005103451512dd3e79c2"
     },
     "perl-kit": {
         "next": "03827e19b4c19a547bcefed64837e19131ad100d"
@@ -69,7 +69,7 @@
         "next": "214b902242d4fc4c6a462fe39779585e1ed44d48"
     },
     "python-modules-kit": {
-        "next": "0a43202e3313e46b7708fe6864e407ed7f6f2991"
+        "next": "cccfe867f862b112c1c6ce8f81961a6d54147fb8"
     },
     "qt-kit": {
         "next-5.15.2-release": "3ace7eaccbe8050280b92dfea5bde89e8a085306"
@@ -81,7 +81,7 @@
         "next": "ca431e8d208c27007a6d8d94b026a224ad91a40e"
     },
     "security-kit": {
-        "next": "e85dd46eac1f6f75602f8b5f4ce836df2cbccff1"
+        "next": "39db62660eeb430ed475c83f946a29f08b1fe714"
     },
     "text-kit": {
         "next": "4efc8a93ad9996490c5d6648910395a86a7bf140"
