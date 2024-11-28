@@ -9,16 +9,16 @@
         "next": "2ea7c5f89a0244111a822d1e75cfca10555b55ce"
     },
     "core-kit": {
-        "next": "ed30e2ad660f563993d4de2372ccc6fd67b680c6"
+        "next": "58a1083dd68d0d90e89401b429c1839e364e0e5d"
     },
     "core-server-kit": {
-        "next": "d86688acfd89e4d0593fb183d3926eae18141e5a"
+        "next": "2112f179ab899622cb70ffae17c764d749431336"
     },
     "desktop-kit": {
         "next": "ea48f57e5e3dcb25a47c46b8ea7af15728e53ba7"
     },
     "dev-kit": {
-        "next": "370e897afa209df798f8c74618a526f83302d569"
+        "next": "f694fab0224b8da9ad2de20b0475943dfd4d00a1"
     },
     "editors-kit": {
         "next": "91251190fcd50aca0f193aaedf8b21c0347cf2b3"
@@ -42,7 +42,7 @@
         "next/5.27-release": "2cc5231d047b8997085f7f99f6fb1f59b7b3dc96"
     },
     "lang-kit": {
-        "next": "86d37934e22754a082a67a0a048498d4436d3507"
+        "next": "d6a341b94e9c607658f74db7496fbff55302d403"
     },
     "lisp-scheme-kit": {
         "next": "42fcbfa5503db00bc4c386f04856c2bd556c05c2"
@@ -60,7 +60,7 @@
         "next": "c0bc4ae987bddbfb56e335069683ea2f128e7943"
     },
     "net-kit": {
-        "next": "122ac03c697ab0bcda22348b0f04eaad32f8308f"
+        "next": "4214890d6347998bdba936fdf2340cda5d1c0914"
     },
     "perl-kit": {
         "next": "03827e19b4c19a547bcefed64837e19131ad100d"
@@ -69,13 +69,13 @@
         "next": "214b902242d4fc4c6a462fe39779585e1ed44d48"
     },
     "python-modules-kit": {
-        "next": "fe7c39a5a183e5fdca75f6edc9fe18bc26f01b5d"
+        "next": "0cb81880f50351612ecd8d3cb9f66d842ecde5af"
     },
     "qt-kit": {
         "next-5.15.2-release": "3ace7eaccbe8050280b92dfea5bde89e8a085306"
     },
     "ruby-kit": {
-        "next": "7039fb832852ea310f969a83c8d3989c17af7b19"
+        "next": "196038b79999f45ed251fbf6ae491ee3e0953d20"
     },
     "science-kit": {
         "next": "ca431e8d208c27007a6d8d94b026a224ad91a40e"
