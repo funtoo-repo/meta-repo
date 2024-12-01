@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "71744da75136b656a391a56df6bb7ec7a5917e86"
+        "next": "49c6a27ebb5033055657f7c958f5b12dbad6ad12"
     },
     "core-gl-kit": {
         "next": "14ce39e0c0f92354abe0d7d97fffecef3c475eca"
@@ -9,7 +9,7 @@
         "next": "2ea7c5f89a0244111a822d1e75cfca10555b55ce"
     },
     "core-kit": {
-        "next": "96e8e9f07516be2ab8174dfe8388caf84a84c875"
+        "next": "8dc5571d92f9ba0227bbcdbe6dfac7be6d9a2a46"
     },
     "core-server-kit": {
         "next": "f8a75278a53bf111c9c885a9776c1a3a85c45da7"
@@ -18,7 +18,7 @@
         "next": "9be06dd29e3ca9455204fbd7a506fe4cf52b454e"
     },
     "dev-kit": {
-        "next": "5fd8dff799e476c3480d8dd6b0d9f95a4f7c49b8"
+        "next": "1b09aa500675e5a303583447f4fb36e0c6a90c55"
     },
     "editors-kit": {
         "next": "91251190fcd50aca0f193aaedf8b21c0347cf2b3"
@@ -27,7 +27,7 @@
         "next": "cda515d5a1daa84b4ad277d0a22befdd254b6349"
     },
     "gnome-kit": {
-        "next-3.36-prime": "bf6c1a6e1434be660423d961adf5c48e43902bfe"
+        "next-3.36-prime": "d3c0b08b3aac6bf6fd92103e47c10146656856d8"
     },
     "haskell-kit": {
         "next": "596e8e80470a2fd1e4f4129367bf64d97df71c60"
@@ -60,7 +60,7 @@
         "next": "c0bc4ae987bddbfb56e335069683ea2f128e7943"
     },
     "net-kit": {
-        "next": "34a2665c37c821bf7350e7e88bc8fb9e49957f46"
+        "next": "77417b341da36a486a3b5d7b227cf834c20bac0b"
     },
     "perl-kit": {
         "next": "03827e19b4c19a547bcefed64837e19131ad100d"
@@ -69,7 +69,7 @@
         "next": "214b902242d4fc4c6a462fe39779585e1ed44d48"
     },
     "python-modules-kit": {
-        "next": "fe4934bad54b9ab597b64e11b152ffd037cd241b"
+        "next": "2202314ea19ab496d743fdb8dea8206c21ca4574"
     },
     "qt-kit": {
         "next-5.15.2-release": "3ace7eaccbe8050280b92dfea5bde89e8a085306"
@@ -78,7 +78,7 @@
         "next": "196038b79999f45ed251fbf6ae491ee3e0953d20"
     },
     "science-kit": {
-        "next": "ca431e8d208c27007a6d8d94b026a224ad91a40e"
+        "next": "c636a6faff2510357f56574f5dfffe7443774b9e"
     },
     "security-kit": {
         "next": "39db62660eeb430ed475c83f946a29f08b1fe714"
