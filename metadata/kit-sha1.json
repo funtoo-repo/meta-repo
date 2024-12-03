@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "a6540d3347a6bdac53cef247c89d3897e8193041"
+        "next": "533c149f24b1e4d83758ec82b704e04aa9f97520"
     },
     "core-gl-kit": {
         "next": "14ce39e0c0f92354abe0d7d97fffecef3c475eca"
@@ -18,7 +18,7 @@
         "next": "9be06dd29e3ca9455204fbd7a506fe4cf52b454e"
     },
     "dev-kit": {
-        "next": "edec73913d4c23c5272ba9d9a20974f1f1e938b8"
+        "next": "b4872e964e8e92caa73fc957c3448b47cf9bba70"
     },
     "editors-kit": {
         "next": "35f94cdbc3ac5d879fa46e8e6b797f56963bbd96"
@@ -33,7 +33,7 @@
         "next": "596e8e80470a2fd1e4f4129367bf64d97df71c60"
     },
     "i18n-kit": {
-        "next": "8a0cb8f6181ee1e9442eba93fcc135a8030473b4"
+        "next": "05d98e74f0f916cb3d9b926204acfce32b38e755"
     },
     "java-kit": {
         "next": "9b96e5476a0ee220a233d8fe6bc2db17bcef5b63"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "8d282c10c855c424145f2a2354440ff64ff61292"
     },
     "media-kit": {
-        "next": "bd293d4e14ffd4aada1af28517570aa9b1d9084a"
+        "next": "e9fa494091f8f486664c1087995c3ab54019c231"
     },
     "ml-lang-kit": {
         "next": "c0bc4ae987bddbfb56e335069683ea2f128e7943"
     },
     "net-kit": {
-        "next": "32550676f50343e86c02566e201957599d979a6e"
+        "next": "ab94bac3ffea99a2804d59f6049b52bf592a445f"
     },
     "perl-kit": {
         "next": "03827e19b4c19a547bcefed64837e19131ad100d"
@@ -69,7 +69,7 @@
         "next": "214b902242d4fc4c6a462fe39779585e1ed44d48"
     },
     "python-modules-kit": {
-        "next": "6cdab1753e31d356459c223724483382b2a2187d"
+        "next": "1bf4e903dfc1bb8778de6e7d7d0dd0c3f9b49c9d"
     },
     "qt-kit": {
         "next-5.15.2-release": "3ace7eaccbe8050280b92dfea5bde89e8a085306"
@@ -81,7 +81,7 @@
         "next": "c636a6faff2510357f56574f5dfffe7443774b9e"
     },
     "security-kit": {
-        "next": "39db62660eeb430ed475c83f946a29f08b1fe714"
+        "next": "af84ab0853b1cad9792cf4fbe447fc2cc8928787"
     },
     "text-kit": {
         "next": "19f2d231d0987fdd60a2bcb6fc9401a3b9b0073c"
