@@ -18,7 +18,7 @@
         "next": "24118b6a1224d403224dcab87064e4c4fa3809fd"
     },
     "dev-kit": {
-        "next": "29fc96d83ab8a8ce2d3c851a85d11c87ffee995c"
+        "next": "205151b8442ceb55e3f12907b6b29816e166329b"
     },
     "editors-kit": {
         "next": "b071740c41e7d2f763dd11085ba3a667296bd6c9"
@@ -33,7 +33,7 @@
         "next": "5682b6ece20281a1ab9f329baa5164f43844a13b"
     },
     "i18n-kit": {
-        "next": "bf130679d7072606632663aad8e007e1cfc84153"
+        "next": "652d8ad5c3051da38ca305be633c205cb639efb0"
     },
     "java-kit": {
         "next": "a0a5b2cab7bd42e3882d97a7c6b0f50497aa37fd"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "81e6a4e22245b22e31a9ac8329c57f340259511a"
     },
     "media-kit": {
-        "next": "b650c4cf2f9e6f1d9bf195a2e1f0af7bd329092c"
+        "next": "3ca45975ad9ed68ce86a3fed06798c43b41f0782"
     },
     "ml-lang-kit": {
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "d08dec4e551d11eb0b0b967c664f3e89ef6ec07f"
+        "next": "2b5fd48f623c820788956c82e0b85f5b75642b98"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
