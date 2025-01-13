@@ -18,7 +18,7 @@
         "next": "a7718e26584ac207ec58d52f8dde3ee4a61f2494"
     },
     "dev-kit": {
-        "next": "ca5f6a54a326f87a2b7c645dc6294ae8817d226a"
+        "next": "c2b3f77a487a5f2d99fc5cb76679ff514de79a19"
     },
     "editors-kit": {
         "next": "a8d94acfe198e1d056ffda8c42c81aa871ad53a9"
@@ -36,7 +36,7 @@
         "next": "2830ebfb9f66e7725a1138c0242f81efcf34d016"
     },
     "java-kit": {
-        "next": "a89212901ecec0a361852b5a46a97af99e7c73da"
+        "next": "3ffc5bf557db1a1220cb03d884c04c02f5039620"
     },
     "kde-kit": {
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "a9759dfa830ddcb80751f6e5a1c5b7636d59f908"
+        "next": "27f2d5c8b20d9a1f3b60744e157d043d79ca7588"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
