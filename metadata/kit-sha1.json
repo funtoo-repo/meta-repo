@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "53d57cf2fdc8c8afb62463b5b5e671bd4698ed0e"
+        "next": "15c7845de2fc7fb498c660a2a8c6d1055d9ef53c"
     },
     "core-gl-kit": {
         "next": "40adaa1aa9057a4640d540ef002b0d15027eeb35"
@@ -12,19 +12,19 @@
         "next": "5b9257b8fcfe753ad54ecffb4210c00751cc8067"
     },
     "core-server-kit": {
-        "next": "4a8bcfcdcf222c292fc8a808e67a0d39d7fe59e7"
+        "next": "2e55e8d08438f98e222b3797b67507ab7cdcb4a0"
     },
     "desktop-kit": {
         "next": "453bf998d6f9c031450083191aeae0e8fac82726"
     },
     "dev-kit": {
-        "next": "0960a23c729da6666adb37386e6b09f8c583cf03"
+        "next": "625b7a019224b15bd8d36673c4e607f8bccf20e8"
     },
     "editors-kit": {
-        "next": "d64f5c1450d3f4a3c12bfc3293432b815e5f2436"
+        "next": "3bef5636644a6da6386d58ee855635c7ff609beb"
     },
     "games-kit": {
-        "next": "4a82ca56e0db28865945e9da41650544b5d02dd3"
+        "next": "13a0d1248d9127a606cd8a1c4c9b36707e4a8e53"
     },
     "gnome-kit": {
         "next-3.36-prime": "a9843c1637f585c1161c88f146e937e2a9e071e9"
@@ -42,7 +42,7 @@
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
     },
     "lang-kit": {
-        "next": "f5a5c662ca0c90b5877385c74557159f1b4f8333"
+        "next": "3bc458a41c6f30db579156cd96268502ee530c0c"
     },
     "lisp-scheme-kit": {
         "next": "99447dbaa0e2beabbe7192c78a0a99d57cc5d124"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "9398f88db1a16da9b1e396daaae6a0be87743d52"
+        "next": "2f6706983a777e87c8fd03014f61c56988b76d28"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "438e19b745a2228036d56b2c2c21eb175d99771d"
     },
     "python-modules-kit": {
-        "next": "fc274e87c9379960198d41e7192e707eef2de404"
+        "next": "6aa1316c5b614c6da6f18f17e04146ce9b553136"
     },
     "qt-kit": {
         "next-5.15.2-release": "165212caafa70378f3db400ef6f7737784f01be0"
