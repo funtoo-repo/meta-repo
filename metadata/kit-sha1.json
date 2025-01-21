@@ -12,13 +12,13 @@
         "next": "d147aa4c5dfc998155f78ea7315edeef18f46e51"
     },
     "core-server-kit": {
-        "next": "66a7fdfcb470606524c631c3cb9cbce9c4f80ef9"
+        "next": "81140cdd22ff6249ac03e5bcf3cb7e26df6bd67c"
     },
     "desktop-kit": {
         "next": "d339c02d7524dbf9b802987e263cd821cbd5dce2"
     },
     "dev-kit": {
-        "next": "e1c70a4e97ff4e224a22528f0bf3f2466d9f8008"
+        "next": "48598243d1f7f7379793d1755aee20aa5c177250"
     },
     "editors-kit": {
         "next": "60ed66ce93a311ac8c57e1acbb00efe83ac58701"
@@ -33,7 +33,7 @@
         "next": "5682b6ece20281a1ab9f329baa5164f43844a13b"
     },
     "i18n-kit": {
-        "next": "255f48fdcf9d42943f11969aa15c6861cdf66368"
+        "next": "4973b23ed66f3c5dfb27fc1b47647f323f1b38bd"
     },
     "java-kit": {
         "next": "3ffc5bf557db1a1220cb03d884c04c02f5039620"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "e40536ff7caef9dca04bd01e2646ff22be0a9bc7"
+        "next": "09cab85a52d1f9b63228a35297b2090f5cebbef7"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
