@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "e9fbe8198343f1daf9d23a149101d97e04035514"
+        "next": "2ccfa88c419055194f2feb00e94ab4a3513e4996"
     },
     "core-gl-kit": {
         "next": "b2fdbca70c07ea094058b7f4b016c7ffef65fb55"
@@ -12,19 +12,19 @@
         "next": "9b58d4d70265d22d075b42827640f23264036c6f"
     },
     "core-server-kit": {
-        "next": "165d2c273d85ea519be20f89a93bb064f39d7194"
+        "next": "6f8b7a5d0ebc0e9d4fe6c677fe8bee6194814f15"
     },
     "desktop-kit": {
         "next": "d339c02d7524dbf9b802987e263cd821cbd5dce2"
     },
     "dev-kit": {
-        "next": "21febedbe6c3ec65834e68586c3ed41dedbd3898"
+        "next": "26ae2a1a5fa3816fd5499950e62ab844605009d6"
     },
     "editors-kit": {
-        "next": "60ed66ce93a311ac8c57e1acbb00efe83ac58701"
+        "next": "27501a910a2bcbe75e574268bf80195a83f4ac76"
     },
     "games-kit": {
-        "next": "13a0d1248d9127a606cd8a1c4c9b36707e4a8e53"
+        "next": "3ea673e336761909fb38ecbfea7204da471bf438"
     },
     "gnome-kit": {
         "next-3.36-prime": "a9843c1637f585c1161c88f146e937e2a9e071e9"
@@ -33,7 +33,7 @@
         "next": "5682b6ece20281a1ab9f329baa5164f43844a13b"
     },
     "i18n-kit": {
-        "next": "4973b23ed66f3c5dfb27fc1b47647f323f1b38bd"
+        "next": "e6ba25e5c44b4de71edef60b205608048d2c810e"
     },
     "java-kit": {
         "next": "3ffc5bf557db1a1220cb03d884c04c02f5039620"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "a7754f7ec7c8005091709d6bf7f8520df3d282d7"
+        "next": "cf8d6bbf9e6d8a1591dff4ec7844a6c90d6bd6ae"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "438e19b745a2228036d56b2c2c21eb175d99771d"
     },
     "python-modules-kit": {
-        "next": "962df8baca9f87722bde0b06876d31f663cecbce"
+        "next": "c856ad5c1a2cf260ced59cdc7e9c80a1da31e744"
     },
     "qt-kit": {
         "next-5.15.2-release": "165212caafa70378f3db400ef6f7737784f01be0"
