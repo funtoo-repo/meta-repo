@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "2ccfa88c419055194f2feb00e94ab4a3513e4996"
+        "next": "c5b0edbc83c673c44b169d8371539b0e32da1ddb"
     },
     "core-gl-kit": {
         "next": "b2fdbca70c07ea094058b7f4b016c7ffef65fb55"
@@ -12,13 +12,13 @@
         "next": "9b58d4d70265d22d075b42827640f23264036c6f"
     },
     "core-server-kit": {
-        "next": "6f8b7a5d0ebc0e9d4fe6c677fe8bee6194814f15"
+        "next": "5b20d2d481ae8a08526cfd0870db9c589825ba4f"
     },
     "desktop-kit": {
         "next": "d339c02d7524dbf9b802987e263cd821cbd5dce2"
     },
     "dev-kit": {
-        "next": "26ae2a1a5fa3816fd5499950e62ab844605009d6"
+        "next": "19d16b4395148fdee185dccbfb7c4b17de129fb4"
     },
     "editors-kit": {
         "next": "27501a910a2bcbe75e574268bf80195a83f4ac76"
@@ -36,7 +36,7 @@
         "next": "e6ba25e5c44b4de71edef60b205608048d2c810e"
     },
     "java-kit": {
-        "next": "3ffc5bf557db1a1220cb03d884c04c02f5039620"
+        "next": "5c667d9b4e59a20fd373777cd9188cb5e4f12245"
     },
     "kde-kit": {
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "cf8d6bbf9e6d8a1591dff4ec7844a6c90d6bd6ae"
+        "next": "85b62595ed545d1aea493309a20a500c34f21cbe"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "438e19b745a2228036d56b2c2c21eb175d99771d"
     },
     "python-modules-kit": {
-        "next": "c856ad5c1a2cf260ced59cdc7e9c80a1da31e744"
+        "next": "4903fe9fab428dc45971156c3d50757519d96f67"
     },
     "qt-kit": {
         "next-5.15.2-release": "165212caafa70378f3db400ef6f7737784f01be0"
@@ -81,7 +81,7 @@
         "next": "9f6d86e77badc1a414a953c5122c347e44b8354b"
     },
     "security-kit": {
-        "next": "83d9372f70da5693cbf2a8d46d2356eaf283e78f"
+        "next": "51671514ad32bea1f69276937f448cc3ef805b42"
     },
     "text-kit": {
         "next": "50f5556530e34c0ff1abb4e08f630797286feb89"
