@@ -6,19 +6,19 @@
         "next": "c5eb6073f17cdf504c9bb10515a38ec75ac816cc"
     },
     "core-hw-kit": {
-        "next": "8379055bb2416ddffea20ab14c8596685784c72d"
+        "next": "1df2a493ab7a844e4a50733dec4c65494823d64d"
     },
     "core-kit": {
-        "next": "9e012e041d65e57edba71c94953f39f0a047a8c4"
+        "next": "997c27441f77ad29c42b3d5deea060982c302cd8"
     },
     "core-server-kit": {
-        "next": "72ec9af65ec55c1736418a26c4376f06de41d420"
+        "next": "6ddf24d0c7c8281e9ba9a31946197dbf60dfcaec"
     },
     "desktop-kit": {
         "next": "2338016065b185d51e89f7674b5b89b853823d70"
     },
     "dev-kit": {
-        "next": "5bdff2a33da0972e7282f6aa03e1aba87b94ce39"
+        "next": "500646f90bfe301b0fa561ea861ab27f64779562"
     },
     "editors-kit": {
         "next": "3e10b5efd1718c19ad9919403fc6f304a0451701"
@@ -33,7 +33,7 @@
         "next": "5682b6ece20281a1ab9f329baa5164f43844a13b"
     },
     "i18n-kit": {
-        "next": "4595c22846acc48307d8caa084288098fa06f4ec"
+        "next": "6d7a6c209c7c684a0c59f6b19ca0573135365b89"
     },
     "java-kit": {
         "next": "58d352e223b8606f61dfb1dafd11bc606a93d519"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "81e6a4e22245b22e31a9ac8329c57f340259511a"
     },
     "media-kit": {
-        "next": "c760b30062d7ce361a2adb322949eee4f853d5e0"
+        "next": "32af977179fb66461333c8071394acf36738f0fc"
     },
     "ml-lang-kit": {
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "14ec0d7a43f7f9de9b8e982cf7367782ad9e2b03"
+        "next": "947ccd493d890877d6c098d1e691d3a4f861576f"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "438e19b745a2228036d56b2c2c21eb175d99771d"
     },
     "python-modules-kit": {
-        "next": "0d7b16934bd96a941d796a32b04734bcd4c79c8f"
+        "next": "4b5b80e4f5c45246f4359d27ba4b2e5230c2b078"
     },
     "qt-kit": {
         "next-5.15.2-release": "d38dde134677e1d2a64bbb666e61641666944cc2"
