@@ -12,13 +12,13 @@
         "next": "36d18175200af0496b9ad6320b54444f68126c30"
     },
     "core-server-kit": {
-        "next": "52117f46400e91c061526fd5450869ae584e02ca"
+        "next": "7083417a8019c6f091e8a2d3cade6f1b72420dbb"
     },
     "desktop-kit": {
         "next": "2338016065b185d51e89f7674b5b89b853823d70"
     },
     "dev-kit": {
-        "next": "248de4e187589855fb0149b694d71235bc3c15db"
+        "next": "6f71cea51c1bcde67f836e5bb1b3ba055ac439be"
     },
     "editors-kit": {
         "next": "aee66489a953cb1ae7eda771d9521bc451ec88e6"
@@ -27,7 +27,7 @@
         "next": "38be9260f40eb0e521ee6a2e524692e552af86ca"
     },
     "gnome-kit": {
-        "next-3.36-prime": "02d12d294028814ca8dc5da7a0814f1622bac9b3"
+        "next-3.36-prime": "5cc56875dc31ab125ded4d9e1d158ebb3587d5db"
     },
     "haskell-kit": {
         "next": "5682b6ece20281a1ab9f329baa5164f43844a13b"
@@ -42,7 +42,7 @@
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
     },
     "lang-kit": {
-        "next": "80e82e5154c2c6d0b954d41fb21c76e8f8cce15f"
+        "next": "6f2249f515c02ed1c813c5542b5aa8b9dd2abd3c"
     },
     "lisp-scheme-kit": {
         "next": "99447dbaa0e2beabbe7192c78a0a99d57cc5d124"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "72969731a704514e5794567a475dda3598441987"
+        "next": "827d63c7e015b2ad97cee086cf25a6ef5605b234"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,13 +69,13 @@
         "next": "438e19b745a2228036d56b2c2c21eb175d99771d"
     },
     "python-modules-kit": {
-        "next": "446e1f8dc0660508cb5f282f50f16381c4fec90b"
+        "next": "139b39cbe2742ef9d600d406d86f271059161288"
     },
     "qt-kit": {
         "next-5.15.2-release": "d38dde134677e1d2a64bbb666e61641666944cc2"
     },
     "ruby-kit": {
-        "next": "08e7f877d70ff6c1842dc6109ae713a45ae3bd79"
+        "next": "17f6bbd9ab6ed7c09b99eb9da37ac69fb412e344"
     },
     "science-kit": {
         "next": "9f6d86e77badc1a414a953c5122c347e44b8354b"
