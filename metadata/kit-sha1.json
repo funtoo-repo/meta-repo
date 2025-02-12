@@ -6,22 +6,22 @@
         "next": "b01aeb250861aebd016e3d6ba9a14639989eb440"
     },
     "core-hw-kit": {
-        "next": "65a03fe0fe29b61de6e5da451da3f9d1f0a186dc"
+        "next": "c1af1adb1b997b32cb0681932bf4a47e62c088e1"
     },
     "core-kit": {
-        "next": "471bfeaece4e64f3628e4ac9794028bf024958cd"
+        "next": "d94ce1f753bb640673e81249a07dcf80e7bb43f2"
     },
     "core-server-kit": {
-        "next": "2bbae7a2c2b00366cc0b3f2c290f8bf8418b44be"
+        "next": "86394118fe8a4d6de2da1c2b1996c5c95ea158b9"
     },
     "desktop-kit": {
         "next": "20c4a7dcd8b5d9d34a915fed42ab69d64f3bfbd8"
     },
     "dev-kit": {
-        "next": "0912fb10b1bb862ec0f010ea611ab61aad418665"
+        "next": "e206bf6860af90dd29246bf0e84d92a14a6e03ff"
     },
     "editors-kit": {
-        "next": "27a814e68658f5fb6505b52474a8542ddb9e9d23"
+        "next": "6cc4a0643757906350965a3b341deaf0acaf7423"
     },
     "games-kit": {
         "next": "38be9260f40eb0e521ee6a2e524692e552af86ca"
@@ -42,7 +42,7 @@
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
     },
     "lang-kit": {
-        "next": "40c553edf965f0448ea34acea7ccbd75f08b42d2"
+        "next": "50f167ad53ec386a935d12adbff557fc56b66f06"
     },
     "lisp-scheme-kit": {
         "next": "99447dbaa0e2beabbe7192c78a0a99d57cc5d124"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "81e6a4e22245b22e31a9ac8329c57f340259511a"
     },
     "media-kit": {
-        "next": "d0a186397513b8d12ae39577a10c70b0666a46c5"
+        "next": "73daaeec95efc8fa44ee34d0767067ac8e3b11fe"
     },
     "ml-lang-kit": {
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "c185565c863fdd961d0d1b308b29443021272f39"
+        "next": "5e745fd155dd318ce0b006e04b14bde3fe58d7ff"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "438e19b745a2228036d56b2c2c21eb175d99771d"
     },
     "python-modules-kit": {
-        "next": "176d9c6c44df254aa2b9305b999d2d869e59f8da"
+        "next": "a4191cf0f84a5f46d72b5a0fcd1a4ac869934c24"
     },
     "qt-kit": {
         "next-5.15.2-release": "d38dde134677e1d2a64bbb666e61641666944cc2"
