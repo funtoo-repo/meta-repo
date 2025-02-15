@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "cb8868c38ee92cd62fe512198d7b5527654a343e"
+        "next": "01831ad28759ea3e376d7cc041d21f80b6ab424c"
     },
     "core-gl-kit": {
         "next": "b01aeb250861aebd016e3d6ba9a14639989eb440"
@@ -9,19 +9,19 @@
         "next": "970c3221859a0b22785dc3c95e127ed7bb1a92d1"
     },
     "core-kit": {
-        "next": "4c4571224f84bb557e4b06f77c2a61935675b3b1"
+        "next": "cd52b456d328ee9064f090672c5da2ae69ad2421"
     },
     "core-server-kit": {
-        "next": "d508a6b60adf46f5e098dd4a2883475497194871"
+        "next": "d4c234671a0420142c4c8900b99ac76c9c299271"
     },
     "desktop-kit": {
         "next": "b6b3a6b69649a201dedc97471fd6a04f94557fe3"
     },
     "dev-kit": {
-        "next": "b7106951fca865412c8ab128958cd85cc4fc11e6"
+        "next": "0e542bdad6b5fa00d4cbd97daa3f26932db4612a"
     },
     "editors-kit": {
-        "next": "64e8492c5d34f232ef30402cb4c244d8f1634fc0"
+        "next": "abdcb16c4c5380d6a0cc44949e076e39005a6645"
     },
     "games-kit": {
         "next": "38be9260f40eb0e521ee6a2e524692e552af86ca"
@@ -42,7 +42,7 @@
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
     },
     "lang-kit": {
-        "next": "a8c9c187839a624622781b914c7a8f1f2791c596"
+        "next": "85f2f396f691680a2194cade506ef8f0d7e70147"
     },
     "lisp-scheme-kit": {
         "next": "99447dbaa0e2beabbe7192c78a0a99d57cc5d124"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "2a7ec8e6978a636b511a13053c1ca2100df7b4c4"
+        "next": "f3a7bbf26084378d73566f8858767b620c4a60de"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "dfef87e743a84a9c47ab5bd016ea9c29e1cf6772"
     },
     "python-modules-kit": {
-        "next": "5b080f846063d232cd749af7abce6bd00900d544"
+        "next": "f4536b283ec1148d5457446f630d80a22361db86"
     },
     "qt-kit": {
         "next-5.15.2-release": "d38dde134677e1d2a64bbb666e61641666944cc2"
