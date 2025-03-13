@@ -1,24 +1,24 @@
 {
     "browser-kit": {
-        "next": "9e48313f70df4f583050d17ee4d6b8f061548062"
+        "next": "625f6984526b19dc912566f4830f6e51202cbf7b"
     },
     "core-gl-kit": {
-        "next": "a9004a47b81be0ec68ee0cd79ca45903a5c3f9a5"
+        "next": "d86a01fc244869f382b737b9faa0b1342818a85e"
     },
     "core-hw-kit": {
-        "next": "bc249b27bd01fca7da51817b8f5825f354afb36f"
+        "next": "999a0394fb78c678d2ea2105bc0ba42dcd91a304"
     },
     "core-kit": {
-        "next": "a5930f2ebc8fbd7cd116607958a003342642e2a7"
+        "next": "a64b9a56dcd5c2f914dd4b736f39d407b644b3a2"
     },
     "core-server-kit": {
-        "next": "ae42749f60011e5ac48968a65e34763ee00d2fdc"
+        "next": "44b23219336e57d5b66fb9f0fb48f9da81101257"
     },
     "desktop-kit": {
         "next": "2c434869dae16369f68224ada8d48a0208c7d967"
     },
     "dev-kit": {
-        "next": "c84be1fb2d655e66f406876f2f8328041707d602"
+        "next": "076577a445ef44b144b9684a2f4c00cd7b12d7aa"
     },
     "editors-kit": {
         "next": "a7f8ac47ea3f8498f53e823ab0e0cbff99befe7c"
@@ -42,7 +42,7 @@
         "next/5.27-release": "dd59a586859b05aa1c786f0e3d07564f9e7943f7"
     },
     "lang-kit": {
-        "next": "628e3f8f30b0be8c15c89c8077a5432318f8898a"
+        "next": "6c045ad914bf1771f126b6379740d80edad41b41"
     },
     "lisp-scheme-kit": {
         "next": "99447dbaa0e2beabbe7192c78a0a99d57cc5d124"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "65efb80be514111fee7fae8594807e503e465a4d"
+        "next": "d0c28f8179a2c6b58bbba234e18c13315552d14f"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "dfef87e743a84a9c47ab5bd016ea9c29e1cf6772"
     },
     "python-modules-kit": {
-        "next": "51175964bc1ebd85111e3744214c7885dba48e4e"
+        "next": "90eda6e7e687e7a7f82f60c41af0618f7de7e09f"
     },
     "qt-kit": {
         "next-5.15.2-release": "a9541b8c43697b51e04f308007937dbaa789b233"
