@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "00f3d6d99ee24132c393b273910d140ba6d48d3e"
+        "next": "de3d06196c460f6435c7ed08ba2388f0c56f3e07"
     },
     "core-gl-kit": {
         "next": "f566c2d47ad01f9809ca92482a8f4aa60df109cc"
@@ -12,22 +12,22 @@
         "next": "25473751d4d4d2e6d8d857ea637b90467a2e7f7c"
     },
     "core-server-kit": {
-        "next": "8b4c4727633265477afb04e2cd7baec267b29f5d"
+        "next": "b09f1f58cc63465ee3e29a3fb9990daaf4886e50"
     },
     "desktop-kit": {
         "next": "2c434869dae16369f68224ada8d48a0208c7d967"
     },
     "dev-kit": {
-        "next": "b0dd44d57e3393737f548097e57d287898e8f431"
+        "next": "73eb3c82a0dd0b03591d21070e80ba0e8f07b358"
     },
     "editors-kit": {
-        "next": "ddf7fdfc095290ba7f001b8686d46c938d37a08a"
+        "next": "d3b4d899ac59e47694b9492065b16e33a3668c38"
     },
     "games-kit": {
         "next": "88008e7deb934fad185fb68ec91fd61b7fd475cf"
     },
     "gnome-kit": {
-        "next-3.36-prime": "88d2850ee25e797ee95b6b458a02689a595ae7c7"
+        "next-3.36-prime": "88fe66630670dfcd00aa6fb6a8f8fce35d6c06bd"
     },
     "haskell-kit": {
         "next": "5682b6ece20281a1ab9f329baa5164f43844a13b"
@@ -60,7 +60,7 @@
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "d3c5632ea2e7dc900951ac756d48dc0a412c4276"
+        "next": "a23010cc9a27261d2093cb94333697830eab1411"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,13 +69,13 @@
         "next": "dfef87e743a84a9c47ab5bd016ea9c29e1cf6772"
     },
     "python-modules-kit": {
-        "next": "90eda6e7e687e7a7f82f60c41af0618f7de7e09f"
+        "next": "a2d1929c58fa741996a151d7d10fd9501f7cea24"
     },
     "qt-kit": {
         "next-5.15.2-release": "a9541b8c43697b51e04f308007937dbaa789b233"
     },
     "ruby-kit": {
-        "next": "6bf441cae852940dddc3e58b7c20f876459a7499"
+        "next": "62320f49b1739544bc4f0376b7eb1937f364c1d6"
     },
     "science-kit": {
         "next": "f5d606f0e829be791e49ccf392c73dbbcefad3f0"
