@@ -9,16 +9,16 @@
         "next": "f70b8d4109680daad136a606fd4bd48a78fb609b"
     },
     "core-kit": {
-        "next": "ac451535e029bce8a20dcce606d0d3c8e5229808"
+        "next": "5dade414f4b8cb04580f95d64a398ba9448c109c"
     },
     "core-server-kit": {
-        "next": "9cba96bea3982454a5f560ae063b6798bf5d63a0"
+        "next": "b98e49a4982a0337009f9dd2cb3cbbbfbbdf35b3"
     },
     "desktop-kit": {
         "next": "f9b3e5d0f8ac9eca9519023f6355fc6acdced30d"
     },
     "dev-kit": {
-        "next": "9791b9e068e33043181cb72469a9587e13bbab25"
+        "next": "0de0ff4b069b1fe34cca613135856837a384ccfd"
     },
     "editors-kit": {
         "next": "27cfee8e838892caf67f8a93ec1a90c0e89e2d92"
@@ -42,7 +42,7 @@
         "next/5.27-release": "a243412e031c44452e162a558b08c0a7aee22e0c"
     },
     "lang-kit": {
-        "next": "3520186df160514e57afb7cc57cb3b64c657b1b6"
+        "next": "0a6d9eda3377604e45f574dda2466d9022009aff"
     },
     "lisp-scheme-kit": {
         "next": "99447dbaa0e2beabbe7192c78a0a99d57cc5d124"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "cb9556b813000c9536debdbe60af1bb2f78ab51f"
     },
     "media-kit": {
-        "next": "a848b9b580ea1234e3afca65cc2c2e19d052384c"
+        "next": "bf3eca7524672f0fc5fac189c6a772e83242bfbd"
     },
     "ml-lang-kit": {
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "98c23e02670890bbc606b323555de4c8fe248391"
+        "next": "93eb864bb499b17a0a5fcdccccf619a495bd3fb7"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,13 +69,13 @@
         "next": "78e7a283c9a65da0afaca1adf5a0844677334f69"
     },
     "python-modules-kit": {
-        "next": "3110b84c4cab363057f04a26dd483c5f471e6ce3"
+        "next": "62056639be6f298b648eb0b474df768f0cd0342b"
     },
     "qt-kit": {
         "next-5.15.2-release": "276029b71c5a8119644a80caa1147c364445e73e"
     },
     "ruby-kit": {
-        "next": "ef0277c64b878f92d6d2fdbd835f4f2ed6106e4d"
+        "next": "5af61f22095921d907b676671d7288a34fdc8578"
     },
     "science-kit": {
         "next": "6ce95c3ffe5b7725909196e653ce8172b0c5d861"
