@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "d5897754bdcd8eeb9b849791d3a7bdaca6eefac9"
+        "next": "a7d37adbf4cfb758663f50ebc8ee7d2e51e6ebf8"
     },
     "core-gl-kit": {
         "next": "a1f22bc66bde53c612a3e82783d2854f9d89cc7c"
@@ -9,16 +9,16 @@
         "next": "39ab0718aa9a37374cc8e0f5746800adfb0bcece"
     },
     "core-kit": {
-        "next": "29352f3e39fa87731d0ff8cd096ee5edc65db327"
+        "next": "a633ad1a3464afddedcdab1013f1570b1d089974"
     },
     "core-server-kit": {
-        "next": "3adf7a5a41c57db7e25caafa7111c4fa9aea4eb7"
+        "next": "d45032c00c0ab96c4ba9f36d3771f08dc30bc6fb"
     },
     "desktop-kit": {
-        "next": "4cd405ebb48e286daa7560b311871729bcd949bb"
+        "next": "ff3fc0389ae54ca61e4ab0129b50a2998fc84ce7"
     },
     "dev-kit": {
-        "next": "72c7a3684467c82bbf84ff277f45d96eae7e7782"
+        "next": "f03b0753cfcb86892571eebec9dc35f8674a3871"
     },
     "editors-kit": {
         "next": "081b5420ae107da073494b1616013e0610f428b4"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "cb9556b813000c9536debdbe60af1bb2f78ab51f"
     },
     "media-kit": {
-        "next": "eef346fbaa660d9fd098391fccb6268ca6b0eba8"
+        "next": "089892d24d142e876628aa1d22c2042e938b9079"
     },
     "ml-lang-kit": {
         "next": "8115b9465b097c87e8e60c69d6429c667f6e6a99"
     },
     "net-kit": {
-        "next": "ee63295cdcd224028caac4f6465f5dc713ab73d1"
+        "next": "4d160f930c4568d372249c214b255941c0ede48c"
     },
     "perl-kit": {
         "next": "8f35a62276931d6a5879a840b6abc7a17cc3425b"
@@ -69,7 +69,7 @@
         "next": "78e7a283c9a65da0afaca1adf5a0844677334f69"
     },
     "python-modules-kit": {
-        "next": "4c8295d1103e7e4e9077116aec5ac59289ea8b0e"
+        "next": "666f6e4949dcdaf4903d498816feeea7e377ceff"
     },
     "qt-kit": {
         "next-5.15.2-release": "a805c52bfa412ef5e0e601b4cd6e3152220b5101"
@@ -81,7 +81,7 @@
         "next": "6ce95c3ffe5b7725909196e653ce8172b0c5d861"
     },
     "security-kit": {
-        "next": "bbd60be889a34002ae4d21c3c78addf9364c5b22"
+        "next": "60b6d0bb8cb180627ec18883aee649978c47f45b"
     },
     "text-kit": {
         "next": "5164549c6956eaa4ba00b057a09afbdf139fdc8e"
