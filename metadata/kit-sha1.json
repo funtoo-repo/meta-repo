@@ -18,7 +18,7 @@
         "next": "9211ab20f53a01f43ddd6d4de945bfea4f66e632"
     },
     "dev-kit": {
-        "next": "4ebe2b1918df006aa33dd281901300a5bad6d9d4"
+        "next": "4a3fec2ef3efb93db62828ddc76b9ffd44bce141"
     },
     "editors-kit": {
         "next": "15b54525a13d285dde2331711a0e162dd62c5c96"
@@ -75,7 +75,7 @@
         "next-5.15.2-release": "d92ebd7649ecac3d569c5fe20ea66cae6c4acdba"
     },
     "ruby-kit": {
-        "next": "69220245ffcf245e648b33034957ff0a97e7e077"
+        "next": "f07df27566daa752d2368f04f36664b2d5f83dcf"
     },
     "science-kit": {
         "next": "a838861c9f8ce674bfae96df3ebb3196d062da05"
